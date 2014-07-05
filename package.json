@@ -1,6 +1,6 @@
 {
-  "name": "node-glew",
-  "version": "1.0.0",
+  "name": "glew",
+  "version": "1.0.1",
   "description": "glew source and static build target",
   "main": "index.js",
   "repository": {
